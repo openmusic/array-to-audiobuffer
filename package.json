@@ -1,0 +1,23 @@
+{
+  "name": "array-to-audiobuffer",
+  "version": "1.0.0",
+  "description": "Utility to generate Audio Buffer given an array (or more) of audio data",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "openmusic-demo-gulp-tasks": "^1.5.0",
+    "openmusic-white-noise": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openmusic-array-to-audiobuffer/"
+  },
+  "keywords": [
+    "audiobuffer"
+  ],
+  "author": "sole",
+  "license": "Apache 2"
+}
