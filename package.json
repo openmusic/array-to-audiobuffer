@@ -1,5 +1,5 @@
 {
-  "name": "array-to-audiobuffer",
+  "name": "openmusic-array-to-audiobuffer",
   "version": "1.0.0",
   "description": "Utility to generate Audio Buffer given an array (or more) of audio data",
   "main": "index.js",
